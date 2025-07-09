@@ -1,4 +1,4 @@
-% axos(7) - AXOS Manual
+% axos(1) - AXOS Manual
 % AxOS team
 % July 2025
 
