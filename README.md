@@ -28,4 +28,4 @@ epsi i pandoc # The AxOS way ;)
 
 - More info on writing manual: https://man7.org/linux/man-pages/man7/man-pages.7.html#DESCRIPTION
 - Pandoc Documentation: https://pandoc.org/MANUAL.html
-- For those who have sanity: [https://www.reddit.com/r/linuxmemes/comments/rv5e39/how_to_touch_grass_as_linux_user/](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- For those who have sanity: [https://touchgrass.now/](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
