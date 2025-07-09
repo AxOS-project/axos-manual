@@ -10,7 +10,7 @@ man axos
 
 ## Development
 
-Do you an AxOS develoer or want to contribute to axos-manual? Then make sure that you have pandoc installed!
+Are you an AxOS develoer or want to contribute to axos-manual? Then make sure that you have pandoc installed!
 
 You can install it by running the following command:
 
